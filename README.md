@@ -22,22 +22,19 @@ Original Windows installers for **RealVNC Viewer 8.5.3** and **RealVNC Server 2.
 
 ---
 
-## ✨ At a glance
-
-<table>
-<tr>
-<td align="center"><h3>👁️ Viewer</h3><sub>Connect to a remote computer</sub></td>
-<td align="center"><h3>🖥️ Server</h3><sub>Allow authorized remote access</sub></td>
-<td align="center"><h3>📦 One ZIP</h3><sub>Both Windows installers together</sub></td>
-</tr>
-</table>
-
 ## 📦 Package contents
 
-| Product | Version | Included installer | Purpose |
-|---|---:|---|---|
-| 👁️ **RealVNC Viewer** | `8.5.3` | `RealVNC-Connect-Viewer-8.5.3-Windows.msi` | Connect from a Windows computer to a computer you are authorized to access. |
-| 🖥️ **RealVNC Server** | `2.4.1` | `VNC-Server-Installer-2.4.1-Windows.exe` | Enable remote access on a computer you own or are authorized to manage. |
+### 👁️ RealVNC Viewer · 8.5.3
+
+Connect from Windows to a computer you are authorized to access.
+
+**Installer:** `RealVNC-Connect-Viewer-8.5.3-Windows.msi`
+
+### 🖥️ RealVNC Server · 2.4.1
+
+Enable remote access on a computer you own or are authorized to manage.
+
+**Installer:** `VNC-Server-Installer-2.4.1-Windows.exe`
 
 Viewer and Server are separate products and can be installed independently. The release ZIP contains both original installers without modifications.
 
@@ -49,12 +46,10 @@ Choose **RealVNC Viewer 8.5.3 + Server 2.4.1** on the [Releases page](https://gi
 
 ## 🚀 Quick start
 
-| Step | Action |
-|:---:|---|
-| **1** | Download and extract the ZIP package. |
-| **2** | To connect from this PC, run `RealVNC-Connect-Viewer-8.5.3-Windows.msi`. |
-| **3** | To enable access on a PC you manage, run `VNC-Server-Installer-2.4.1-Windows.exe`. |
-| **4** | Follow setup and configure access as required by your RealVNC subscription. |
+1. Download and extract the ZIP package.
+2. To connect from this PC, run `RealVNC-Connect-Viewer-8.5.3-Windows.msi`.
+3. To enable access on a PC you manage, run `VNC-Server-Installer-2.4.1-Windows.exe`.
+4. Follow setup and configure access as required by your RealVNC subscription.
 
 Only configure or connect to computers you own or are authorized to manage.
 
