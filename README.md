@@ -55,7 +55,7 @@ Only configure or connect to computers you own or are authorized to manage.
 
 ## 📜 License
 
-RealVNC Viewer and Server are proprietary software. Use is governed by the applicable [RealVNC End User License Agreement](https://www.realvnc.com/en/legal/) and subscription terms. RealVNC and VNC are trademarks of RealVNC Ltd.
+RealVNC Viewer and Server are proprietary software. Use is governed by the applicable RealVNC End User License Agreement and subscription terms. RealVNC and VNC are trademarks of RealVNC Ltd.
 
 ## 🔗 Links
 
